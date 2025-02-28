@@ -1,1 +1,1 @@
-# first-repo
+echo "# first-repo" > README.md
